@@ -8,6 +8,4 @@ func OtherHelper() string {
 	return "other helper"
 }
 
-func Util() {
-
-}
+func Util() {}
