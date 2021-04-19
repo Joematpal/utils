@@ -7,3 +7,7 @@ func Help() string {
 func OtherHelper() string {
 	return "other helper"
 }
+
+func Util() {
+
+}
